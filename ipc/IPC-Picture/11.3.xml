@@ -1,0 +1,26 @@
+<annotation>
+	<folder>导出图片</folder>
+	<filename>11.3.jpg</filename>
+	<path>E:\IPC-Picture\导出图片\11.3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>479</xmin>
+			<ymin>72</ymin>
+			<xmax>733</xmax>
+			<ymax>672</ymax>
+		</bndbox>
+	</object>
+</annotation>
